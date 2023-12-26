@@ -18,7 +18,7 @@ const CoronaDetails = () => {
       {
         <div className="container-fluid mt-4 ">
           <div className="bg-dark p-3">
-            <h1 className="h1 text-center text-danger">
+            <h1 className="h1 text-center  text-danger">
               India Corona Virus Cases
             </h1>
           </div>
